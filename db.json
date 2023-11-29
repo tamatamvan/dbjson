@@ -1,0 +1,64 @@
+{
+  "movies": [
+    {
+      "title": "The Adventure Begins",
+      "director": "John Smith",
+      "summary": "An epic journey of discovery and courage.",
+      "genres": ["Adventure", "Fantasy"]
+    },
+    {
+      "title": "Intrigue in the Shadows",
+      "director": "Emily Johnson",
+      "summary": "A thrilling mystery that keeps you on the edge of your seat.",
+      "genres": ["Mystery", "Thriller"]
+    },
+    {
+      "title": "Love Beyond Time",
+      "director": "Michael Anderson",
+      "summary": "A heartwarming tale of love that transcends the boundaries of time.",
+      "genres": ["Romance", "Drama"]
+    },
+    {
+      "title": "The Last Frontier",
+      "director": "Sarah Turner",
+      "summary": "A gripping story of survival in the unforgiving wilderness.",
+      "genres": ["Action", "Adventure"]
+    },
+    {
+      "title": "Science and Wonders",
+      "director": "David White",
+      "summary": "Exploring the marvels of science and the mysteries of the universe.",
+      "genres": ["Science Fiction", "Documentary"]
+    },
+    {
+      "title": "City of Dreams",
+      "director": "Alex Martinez",
+      "summary": "A glimpse into the lives of dreamers chasing success in the big city.",
+      "genres": ["Drama", "Slice of Life"]
+    },
+    {
+      "title": "Hilarious Hijinks",
+      "director": "Jessica Brown",
+      "summary": "A comedy that will have you laughing from start to finish.",
+      "genres": ["Comedy"]
+    },
+    {
+      "title": "Beneath the Surface",
+      "director": "Ryan Carter",
+      "summary": "Uncovering the secrets hidden beneath the calm exterior.",
+      "genres": ["Mystery", "Drama"]
+    },
+    {
+      "title": "Eternal Sunshine",
+      "director": "Daniel Lee",
+      "summary": "A bittersweet story of love, loss, and the passage of time.",
+      "genres": ["Romance", "Drama"]
+    },
+    {
+      "title": "Beyond the Stars",
+      "director": "Grace Taylor",
+      "summary": "Journey to the far reaches of the galaxy in this epic space adventure.",
+      "genres": ["Science Fiction", "Adventure"]
+    }
+  ]
+}
